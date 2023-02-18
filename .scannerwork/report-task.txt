@@ -1,7 +1,7 @@
 organization=fedorov100
-projectKey=Fedorov100_btc-evm
+projectKey=Fedorov100_bitcoin-evm
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.37873
-dashboardUrl=https://sonarcloud.io/dashboard?id=Fedorov100_btc-evm
-ceTaskId=AYZfxmOm4LsSKiCt9Iol
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYZfxmOm4LsSKiCt9Iol
+dashboardUrl=https://sonarcloud.io/dashboard?id=Fedorov100_bitcoin-evm
+ceTaskId=AYZj5mmdAkbkcSC7xRG2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYZj5mmdAkbkcSC7xRG2
